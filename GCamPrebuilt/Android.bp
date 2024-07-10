@@ -1,16 +1,4 @@
 android_app_import {
-    name: "GooglePhotosPrebuilt",
-    apk: "GooglePhotosPrebuilt.apk",
-    presigned: true,
-    preprocessed: true,
-    product_specific: true,
-    overrides: ["Gallery","Gallery2"],
-    dex_preopt: {
-        enabled: false,
-    },
-}
-
-android_app_import {
 	name: "GCamGOPrebuilt",
 	owner: "google",
 	apk: "GCamGOPrebuilt.apk",
