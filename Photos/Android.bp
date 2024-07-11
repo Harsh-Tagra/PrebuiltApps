@@ -1,0 +1,13 @@
+android_app_import {
+	name: "Photos",
+	owner: "gms",
+	apk: "Photos.apk",
+	overrides: ["Gallery2"],
+	preprocessed: true,
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	product_specific: true,
+}
+}
