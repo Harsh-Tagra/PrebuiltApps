@@ -2,7 +2,7 @@ android_app_import {
 	name: "Photos",
 	owner: "gms",
 	apk: "Photos.apk",
-	overrides: ["Gallery2", "Glimpse" , "Gallery"],
+	overrides: ["Gallery2", "Glimpse"],
 	preprocessed: true,
 	presigned: true,
 	dex_preopt: {
