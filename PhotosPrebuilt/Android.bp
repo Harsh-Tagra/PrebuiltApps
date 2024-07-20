@@ -1,7 +1,7 @@
 android_app_import {
-	name: "Photos",
+	name: "PhotosPrebuilt",
 	owner: "gms",
-	apk: "Photos.apk",
+	apk: "PhotosPrebuilt.apk",
 	overrides: ["Gallery2", "Glimpse"],
 	preprocessed: true,
 	presigned: true,
