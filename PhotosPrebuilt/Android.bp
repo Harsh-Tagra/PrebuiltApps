@@ -2,7 +2,7 @@ android_app_import {
 	name: "PhotosPrebuilt",
 	owner: "gms",
 	apk: "PhotosPrebuilt.apk",
-	overrides: ["Gallery2", "Glimpse"],
+	overrides: ["Gallery", "Gallery2" ,"Gallery3D" ,"GalleryNew3D","Glimpse","PhotoTable"],
 	preprocessed: true,
 	presigned: true,
 	dex_preopt: {
